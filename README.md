@@ -7,6 +7,13 @@
 - [20220713](https://github.com/JuRyunn/Sokovan/blob/main/TIL/20220713.md)
 - [20220714](https://github.com/JuRyunn/Sokovan/blob/main/TIL/20220714.md)
 
+<br>
+
+![image](https://user-images.githubusercontent.com/79950504/178995772-34f2794c-055a-422c-aef3-6af4df55869a.png)
+- Yellow Circle: Player
+- Red Box: ItemBox
+- Green Box: EndPoint
+- Player가 방향키를 이용하여 ItemBox를 Endpoint로 전부 밀어 넣는 간단한 퍼즐 게임.
 
 <br>
 
