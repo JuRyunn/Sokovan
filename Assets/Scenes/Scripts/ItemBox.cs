@@ -17,11 +17,6 @@ public class ItemBox : MonoBehaviour
         originalColor = myRenderer.material.color;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     void OnTriggerEnter(Collider other)
     {

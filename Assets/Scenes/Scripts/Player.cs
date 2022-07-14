@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+
+    public GameManager gameManager;
+
     // float speed= 10f; (내부적으로 private 처리가 된다.
     // └[ private float speed= 10f; ] )
     public float speed = 10f; 
@@ -17,6 +20,11 @@ public class Player : MonoBehaviour
     
     void Update()
     {
+        if (gameManager.isGameOver == true)
+        {
+            return;
+        }
+
         // 수평방향에 대해 키보드 입력을 -1 ~ +1 값을 준다.
         float inputX = Input.GetAxis("Horizontal");
         float inputZ = Input.GetAxis("Vertical");
