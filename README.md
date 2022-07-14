@@ -9,7 +9,7 @@
 
 <br>
 
-#### Sokovan
+### Sokovan
 ![image](https://user-images.githubusercontent.com/79950504/178995772-34f2794c-055a-422c-aef3-6af4df55869a.png)
 - Yellow Circle: Player
 - Red Box: ItemBox
