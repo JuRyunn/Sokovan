@@ -10,7 +10,7 @@
 
 <br>
 
-### Player 움직임 제어
+### Player 움직임 제어 코드
 ```C#
 using System.Collections;
 using System.Collections.Generic;
